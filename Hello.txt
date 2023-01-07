@@ -1,13 +1,26 @@
+<<<<<<< HEAD
 Hello World! Heelo Git!
 Hello World! Heelo Git!
 Hello World! Heelo Git!
 Hello World! Heelo Git!
 Hello World! Heelo Git!
 Hello World! Heelo Git!66666666
+=======
+Hello World! Heelo Git! 22222222
+Hello World! Heelo Git! 33333333
+Hello World! Heelo Git! 44444444
+Hello World! Heelo Git! 22222222
+Hello World! Heelo Git! 33333333
+Hello World! Heelo Git!	88888888
+Hello World! Heelo Git!
+>>>>>>> Windows
 Hello World! Heelo Git!
 Hello World! Heelo Git!
 Hello World! Heelo Git!
 Hello World! Heelo Git!
 Hello World! Heelo Git!
 Hello World! Heelo Git!
+<<<<<<< HEAD
 Hello World! Heelo Git!333333
+=======
+>>>>>>> Windows
